@@ -9,7 +9,7 @@ import java.util.List;
 
 import static constants.constant.Urls.MAIN_PAGE;
 
-@DisplayName("Test Page Test Suite")
+@DisplayName("Main Page Test Suite")
 @Nested
 public class MainPageTest extends BaseTest {
 
